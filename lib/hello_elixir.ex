@@ -17,15 +17,15 @@ defmodule HelloElixir do
   end
 
   @doc """
-  Bye elixir.
+  Bye world.
 
   ## Examples
 
       iex> HelloElixir.bye()
-      :elixir
+      :world
 
   """
   def bye do
-    :elixir
+    :world
   end    
 end
