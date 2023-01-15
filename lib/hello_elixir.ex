@@ -15,4 +15,17 @@ defmodule HelloElixir do
   def hello do
     :elixir
   end
+
+  @doc """
+  Bye elixir.
+
+  ## Examples
+
+      iex> HelloElixir.bye()
+      :elixir
+
+  """
+  def bye do
+    :elixir
+  end    
 end
