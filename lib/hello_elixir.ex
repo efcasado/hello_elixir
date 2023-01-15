@@ -4,15 +4,15 @@ defmodule HelloElixir do
   """
 
   @doc """
-  Hello world.
+  Hello elixir.
 
   ## Examples
 
       iex> HelloElixir.hello()
-      :world
+      :elixir
 
   """
   def hello do
-    :world
+    :elixir
   end
 end
